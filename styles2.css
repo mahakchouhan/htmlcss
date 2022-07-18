@@ -1,0 +1,146 @@
+body
+{
+  text-align: center;
+  background-color: #FFC4C4;
+  margin: 0;
+}
+h1
+{
+  font-family: 'Sacramento';
+  font-size: 3rem;
+  margin: 10px;
+  color: #F94C66
+}
+p
+{
+  font-family:cursive;
+  font-size: 20px;
+  margin: 10px;
+
+}
+
+.lower-cloud
+{
+  position: relative;
+   right: 200px;
+}
+.upper-cloud
+{
+   position: relative;
+   left: 200px;
+}
+.container
+{
+  margin: 50px;
+}
+.box1
+{
+  height: 100px;
+   text-align: center;
+}
+.css
+{
+  height: 200px;
+  width: 200px;
+  margin: auto;
+  float: right;
+  padding-left:30px;
+}
+.html
+{
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  float: left;
+  padding-right: 30px;
+}
+.mahak
+{
+  height: 300px;
+  width: 400px;
+}
+.uper
+{
+  font-size: 1.2rem;
+  color: #F94C66
+}
+.skill-row
+{
+  width: 50%;
+  margin: auto;
+  padding: 2%;
+  text-align: center;
+  line-height: 2;
+}
+.skills
+{
+  padding:5%;
+}
+hr{
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  height: 60px;
+}
+.middle-container
+{
+  background-color: #FFDEDE;
+  margin:0;
+  padding: 40px;
+}
+.bottom-container
+{
+  padding: 2%;
+  margin: 0;
+  background-color: #EF9F9F;
+}
+.name
+{
+  font-family: cursive;
+  font-size: 25px;
+}
+h2
+{
+  font-size:2rem;
+  color: #F94C66
+}
+.profile
+{
+  padding: 5%;
+}
+.contact-me
+{
+  padding: 5%;
+}
+.btn
+{
+  margin-top: 300px;
+  border-style: solid;
+  border-color: #EF9F9F;
+  background-color: #EF9F9F;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px 10px 10px 10px;
+}
+.neeche
+{
+  height: 50px;
+  margin-bottom: 20px;
+}
+.language
+{
+  font-size: 120%;
+  color: #F94C66
+}
+.h3
+{
+  color: #F94C66
+}
+.footer-link
+{
+  text-decoration: none;
+  padding: 3%;
+  color: #990000
+}
